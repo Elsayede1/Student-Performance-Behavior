@@ -5,15 +5,15 @@ This project analyzes student performance and behavior using a dataset containin
 * Features: Student ID, grades, attendance, participation, social factors, and more
 * Objective: Explore relationships between behavior, study habits, and performance
 # *🔍 Key Analysis & Features*
-✔ Data Cleaning & Preprocessing (Handling missing values, encoding categorical data)
-✔ Exploratory Data Analysis (EDA) (Visualizing trends, correlations, outliers)
-✔ Statistical Insights (Understanding impact of attendance, participation, and social aspects)
-✔ Machine Learning Models (Predicting student performance using regression & classification models)
-✔ Interactive Dashboards (Visualizing insights with Plotly & Dash)
+* ✔ Data Cleaning & Preprocessing (Handling missing values, encoding categorical data)
+* ✔ Exploratory Data Analysis (EDA) (Visualizing trends, correlations, outliers)
+* ✔ Statistical Insights (Understanding impact of attendance, participation, and social aspects)
+* ✔ Machine Learning Models (Predicting student performance using regression & classification models)
+* ✔ Interactive Dashboards (Visualizing insights with Plotly & Dash)
 # *🛠 Tech Stack*
-Languages: Python, SQL
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, Dash
+* Languages: Python, SQL
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, Dash
 # *📈 Results & Insights*
-Attendance and participation significantly impact final grades.
-Certain social and behavioral factors correlate with academic performance.
-Machine learning models can effectively predict student success and identify at-risk students.
+* Attendance and participation significantly impact final grades.
+* Certain social and behavioral factors correlate with academic performance.
+* Machine learning models can effectively predict student success and identify at-risk students.
